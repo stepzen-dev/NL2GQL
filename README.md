@@ -1,6 +1,7 @@
 # NL2GQL
 
-This repo contains a large, manually validated dataset for developing Natural Language interfaces for GraphQL Query Generation. Note that the entire repo is compliant with the StepZen GraphQL Engine (https://stepzen.com/). Please note this is an active repository with ongoing refining and addition if new dataset.
+
+This repository contains a large, manually validated dataset designed for developing Natural Language interfaces for GraphQL query generation. It is fully compatible with the StepZen GraphQL Engine (https://stepzen.com/). Please note that this is an active repository, with ongoing updates and refinements as new data is added.
 
 Root folder consists of Test and Training data sets. Each of which has several sub level folders.
 Each sub-level folder indicates the data source; for instance, the WikiSQL folder comprises GraphQL queries over the WikiSQL Dataset. The WikiSQL dataset was released along with the following work Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning. We will call this dataset the WikiSQL GraphQL Dataset (https://github.com/salesforce/WikiSQL). 
